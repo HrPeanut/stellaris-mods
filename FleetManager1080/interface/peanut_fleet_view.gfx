@@ -1,0 +1,7 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_fleet_view_fleet_list_bg"
+		texturefile = "gfx/interface/fleet_view/fleet_view_fleet_list_bg.dds"
+	}
+}
+
